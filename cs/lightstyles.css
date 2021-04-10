@@ -10389,7 +10389,7 @@ a.has-text-danger-dark:focus {
 }
 @media screen and (max-width: 1023px) {
   .hero.is-danger .navbar-menu {
-    background-color: #f14668;
+    background-color: #46c0f1;
   }
 }
 .hero.is-danger .navbar-item,
@@ -10400,7 +10400,7 @@ a.has-text-danger-dark:focus {
 .hero.is-danger a.navbar-item.is-active,
 .hero.is-danger .navbar-link:hover,
 .hero.is-danger .navbar-link.is-active {
-  background-color: #ef2e55;
+  background-color: #2ec2ef;
   color: #fff;
 }
 .hero.is-danger .tabs a {
@@ -10542,3 +10542,4 @@ a.has-text-danger-dark:focus {
   background-color: #fafafa;
   padding: 3rem 1.5rem 6rem;
 }
+
